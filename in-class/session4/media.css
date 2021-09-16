@@ -1,0 +1,21 @@
+h1{
+    font-size:4rem;
+
+}
+
+img{
+    width: 30%;
+    max-width: 500px ;
+    display: block;
+    margin:2rem;
+    border: 1rem dotted cyan;
+
+}
+
+#fish{
+    width: 300px;
+}
+
+#fish-audio{
+    width:300px ;
+}
