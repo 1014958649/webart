@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Eater&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Beastly&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Faster+One&display=swap');
+
+.welcome{
+
+    width: 10%; 
+   padding  : 2rem;
+    position: fixed;
+   
+}
+
+.hypnotize {
+    max-width: 50%; 
+    padding:4rem;
+    float: right;
+    
+}
+
+.zine2019 {
+
+    max-width: 100%; 
+    padding: 4rem;
+   
+}
+
+.disco{
+
+    width: 100%; 
+    margin : 4rem;
+}
+
+.xiaoqu{
+    width: 100%; 
+    margin: 4rem;
+
+}
+
+.webbuilding{
+    width: 50%; 
+    margin: 4rem;
+    float: left;
+}

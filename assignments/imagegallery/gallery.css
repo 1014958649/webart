@@ -1,0 +1,17 @@
+.imagecontainer{
+    background:purple;
+  
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-evenly;
+   
+  }
+  
+  
+  .item{
+    background:green;
+    margin: 4rem;
+    width: 60vw;
+   
+  }
